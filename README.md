@@ -1,4 +1,4 @@
-# Evaluation of IOT security using Random Forest 
+# Assessing IoT Security with a Random Forest Predictor
 
 I. EXECUTIVE SUMMARY  
 The security of an IoT platform is dependent on the security of the individual layers in the IoT system. There are generally 3 layers in the architecture. First is the perception layer which consists of all IoT devices. Then comes the network layer which is responsible for transport of all the data and last the application layer which is responsible for the access of all the data stored in the databases through cloud or the other medium. Each layer has its own problems and a different variety of attacks. For perception layer we have addressed problems related to security of the device itself and assigned a score based on it. As for the network layer, we consider the IDS (Intrusion Detection System) efficiency and the network structure. Application layer security considers the different code injection and password security.  
